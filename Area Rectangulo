@@ -1,0 +1,12 @@
+# Script para calcular area de rectangulo // Diego Alejandro Salcido Pérez....
+#24/07/26
+
+base = float(input("Ingresa la base del rectangulo: "))
+altura = float(input("Ingrese la altura del rectangulo: "))
+
+
+area = base * altura
+
+
+print("__El area del rectangulo es__",
+        area)
